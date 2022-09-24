@@ -19,7 +19,7 @@ By default, this tool does not allow taking over of subdomains. If you want to d
 
 ### Pre-requisites
 
-We need GO installed. Once you have GO, just type `go get github.com/anshumanbh/tko-subs` to download the tool.
+We need GO installed. Once you have GO, just type `go get github.com/trhacknon/tko-subs` to download the tool.
 
 Once the tool is downloaded, type `tko-subs -h`.
 
